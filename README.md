@@ -2,6 +2,7 @@
 <p align = "center">
    <img src="https://github.com/user-attachments/assets/48067e55-711a-434c-b238-9cb7c6892f14" width = "400" >
 </p>
+
 ## Prerequisites 📋
 To successfully run the codes in this repository, you need to install:
 
