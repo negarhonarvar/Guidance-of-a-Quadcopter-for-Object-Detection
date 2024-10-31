@@ -30,4 +30,6 @@ Since the MNIST fashion dataset includes low-resolution images ,we had to apply 
 
 ### Final Result
 
-https://github.com/user-attachments/assets/92665b27-760e-49ac-aca4-f429564b0454
+https://github.com/user-attachments/assets/e92797eb-8e1d-4f8b-aa8b-a2a283a40b5e
+
+
