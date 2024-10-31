@@ -7,8 +7,14 @@
 To successfully run the codes in this repository, you need to install:
 
     Webots R2023b
+    keras  
+    cv2
+    PIL
     
-    
+And to load the environment, you need to open .wbt file in webots :
+
+    mavic_2_pro.wbt
+     
 We aim to design a controller for a quadcopter in order to control its flight over a number of boxs in the following environment:
 
 <p align = "center">
