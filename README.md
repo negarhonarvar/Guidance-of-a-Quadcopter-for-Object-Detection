@@ -14,7 +14,8 @@ To successfully run the codes in this repository, you need to install:
 And to load the environment, you need to open .wbt file in webots :
 
     mavic_2_pro.wbt
-     
+
+## Implementation
 We aim to design a controller for a quadcopter in order to control its flight over a number of boxs in the following environment:
 
 <p align = "center">
